@@ -1,1 +1,1 @@
-This project is built on Spring Boot platform
+This application is built on top of Spring Boot platform
